@@ -5,7 +5,7 @@
 ### **Contacts**
 * **Phone:** +7 933 301 88 11
 * **E-mail:** donets-denis@inbox.ru
-* **Telegram** [@Solomon3D](https://t.me/Solomon3D)
+* **Telegram:** [@Solomon3D](https://t.me/Solomon3D)
 ******
 ### **About Me**
 
