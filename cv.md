@@ -3,9 +3,9 @@
 ## **Donets Denis**
 *****
 ### **Contacts**
-**Phone:** +7 933 301 88 11
-**E-mail:** donets-denis@inbox.ru
-**Telegram** @Solomon3D
+* **Phone:** +7 933 301 88 11
+* **E-mail:** donets-denis@inbox.ru
+* **Telegram** [@Solomon3D](https://t.me/Solomon3D)
 ******
 ### **About Me**
 
@@ -30,8 +30,8 @@ function multiply(a, b){
 ### Education
 * **University:** Omsk State Technical University, engineer
 * **Courses:** 
- * JS / FRONT-END. STAGE 0 (in  process)
- * JavaScript Manual on learnjavascript.ru (in  process)
+  * JS / FRONT-END. STAGE 0 (in  process)
+  * JavaScript Manual on learnjavascript.ru (in  process)
 *****
 ### Langues:
  * **Russian** - native
